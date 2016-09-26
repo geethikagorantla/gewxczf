@@ -1,6 +1,6 @@
 # gewxczf
 
 
-hello this is in the  new repository
+hello this is in the repository
 
 
